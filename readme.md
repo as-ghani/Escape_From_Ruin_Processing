@@ -1,6 +1,5 @@
 # Escape from Ruins
-## (Processing Game Engine Project)
-
+## Processing Game Engine Project:
 
 “Escape from Ruins” is an arcade runner type of game. The player has to escape the ruins that
 are filled with traps. However, our greedy character will not just escape the ruins. The character
@@ -10,6 +9,15 @@ However, if the player focuses on collecting the coins and does not escape, the 
 and the player will die. To win the player needs to grab the key and reach the gate.
 There are two versions of the game available, one with sound and one without sound. In order to
 play with the sound you need to import the official processing library.
+
+## Controls:
+### Player Movement:
+
+The player movements are simply done by pressing the “w, a, s, d” keys. The “w” and “s” keys
+will allow the player to move in the z-axis, which is equivalent to side to side. The “a” and “d”
+keys will move the player to the x-axis, which is equivalent to back-and-forth movement.
+
+![ScreenShot1](screenshots/ss3.png)
 
 ![Screenhot1](screenshots/ss1.png)
 ![Screenhot2](screenshots/ss2.png)
